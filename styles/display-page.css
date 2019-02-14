@@ -1,0 +1,41 @@
+main {
+	padding-top: 100px;
+	height: 500px;
+	width: 800px;
+	margin: auto;
+	font-size: 0
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block
+}
+
+.green {
+	height: 200px;
+	background-color: green;
+	width: 50%
+}
+
+.blue {
+	height: 200px;
+	background-color: blue;
+	width: 50%
+}
+
+.grey, .black, .peru {
+	height: 300px;
+	width: 33.33%
+}
+
+.grey {
+	background-color: grey
+}
+
+.black {
+	background-color: black
+}
+
+.peru {
+	background-color: peru
+}
